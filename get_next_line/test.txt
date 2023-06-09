@@ -1,0 +1,7 @@
+
+
+A string
+ with another line!
+ and even a third! 
+but the fourth is the last!
+
